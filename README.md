@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sk1499
+- 👋 Hi, I’m Shresht Kashyap
 - 👀 I’m interested in Data Engineering and Data Science
-- 🌱 I’m currently learning OCR using Yolov5 and Pytorch
+- 🌱 I’m currently learning AI/ML
 - 📫 How to reach me - shreshtkashyap@gmail.com
 
 <!---
